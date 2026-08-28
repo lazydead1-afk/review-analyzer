@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "r_11d68c800a",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Regret payign for this. Can't log back in after teh update."
+  },
+  {
+    "id": "r_110470cdab",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Battery dies in an hour."
+  },
+  {
+    "id": "r_b93deaf343",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Could be better. Customer support fixed it fast, but way too expensive for what it does."
+  },
+  {
+    "id": "r_251e81292e",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "pt",
+    "text": "O pedido chegou atrasado e estragado. Não recomendo."
+  },
+  {
+    "id": "r_a703085919",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. 2fa loop won't let me in."
+  },
+  {
+    "id": "r_0bac3018ff",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Decent but flawed. Customer support fixed it fast, but missing half the order."
+  },
+  {
+    "id": "r_e847b3b06b",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Not happy. Missing half the order."
+  },
+  {
+    "id": "r_3144e02fce",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret paying for this. Locked out of my own account."
+  },
+  {
+    "id": "r_096c68fc4c",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "It's okay. Customer support fixed it fast, but constant crashing since the update."
+  },
+  {
+    "id": "r_a47ed874be",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. First, crashes every time I open it. On top of that, support never replied. Fix this."
+  },
+  {
+    "id": "r_de2a150d17",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. Huge time saver, but rude agent on the phone."
+  },
+  {
+    "id": "r_2caf6a9646",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Could be better. Honestly love it, but hidden fees nobody told me about."
+  },
+  {
+    "id": "r_73733ad2be",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. Customer support fixed it fast, but not worth teh subscription."
+  },
+  {
+    "id": "r_3e74a62234",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "The hardware feels premium and the sound is amazing, however the left bud died after a week. Torn."
+  },
+  {
+    "id": "r_7c5bab76c4",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "pt",
+    "text": "Bateria acaba em uma hora, muito ruim."
+  },
+  {
+    "id": "r_aa642f3159",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "en",
+    "text": "Could be better. The design is gorgeous, but wish it had recurrign tasks."
+  },
+  {
+    "id": "r_0f09b6e644",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. The design is gorgeous, but took 5 days to hear back."
+  },
+  {
+    "id": "r_eca70df6be",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. First, crashes every time I open it. On top of that, billed after I cancelled. Fix this."
+  },
+  {
+    "id": "r_bc84af33b9",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Missing half the order."
+  },
+  {
+    "id": "r_7c7321054b",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. Locked out of my own account."
+  },
+  {
+    "id": "r_0dc527f328",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "en",
+    "text": "Regret paying for this. First, took 5 days to hear back. On top of that, price went up with no warning. Fix this."
+  },
+  {
+    "id": "r_e03badcf05",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Spinnign wheel for ages."
+  },
+  {
+    "id": "r_3bc96d0c08",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Case doesn't charge."
+  },
+  {
+    "id": "r_d8009cd95a",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Really hapy with this. Huge time saver."
+  },
+  {
+    "id": "r_0fe32de200",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Solid so far. Huge time saver."
+  },
+  {
+    "id": "r_b1e53011f8",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. Needs a web version."
+  },
+  {
+    "id": "r_00ee52cca4",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Really disappointed. Left earbud stopped working after a week."
+  },
+  {
+    "id": "r_58bb46cd27",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Could be better. Works great for me, but needs a web version."
+  },
+  {
+    "id": "r_da8f17dbda",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Mixed feelings. Huge time saver, but wish it had recurring tasks."
+  },
+  {
+    "id": "r_ac1a8de851",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. First, left earbud stopped working after a week. On top of that, rude agent on the phone. Fix this."
+  },
+  {
+    "id": "r_b35a71eb4c",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret payign for this. New layout is confusing."
+  },
+  {
+    "id": "r_76af6e790e",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Could be better. The design is gorgeous, but chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_25b640ada9",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Oh fantastic, another crash right in the middle of my presentation. Love it. Truly."
+  },
+  {
+    "id": "r_18240baa21",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "de",
+    "text": "Die App stürzt ständig ab seit dem letzten Update."
+  },
+  {
+    "id": "r_0eb16ddd07",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. 2fa loop won't let me in."
+  },
+  {
+    "id": "r_06fa21d593",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "It's okay. Exactly what i needed, but new laut is confusing."
+  },
+  {
+    "id": "r_2756ae4dd7",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "It's okay. Works great for me, but battery dies in an hour."
+  },
+  {
+    "id": "r_e2a280d280",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Sync takes minutes."
+  },
+  {
+    "id": "r_11fb7f0564",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. The free tier is basically useless now."
+  },
+  {
+    "id": "r_b3b3a019af",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret paying for this. First, 2FA loop won't let me in. On top of that, spinning wheel for ages. Fix this."
+  },
+  {
+    "id": "r_ef3e1d27e1",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Really disappointed. Sync takes minutes."
+  },
+  {
+    "id": "r_08507e1951",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "It's okay. Customer support fixed it fast, but new layout is confusign."
+  },
+  {
+    "id": "r_82ffb2cb53",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "Regret paying for this. Box arrived a day late and warm."
+  },
+  {
+    "id": "r_9b3b9728f0",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Been using it for months. Works great for me."
+  },
+  {
+    "id": "r_784000dae6",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "It's okay. Huge time saver, but billed after I cancelled."
+  },
+  {
+    "id": "r_7bb5ef411b",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. First, new layout is confusing. On top of that, takes forever to load. Fix this."
+  },
+  {
+    "id": "r_70512de997",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. First, won't hold a charge anymore. On top of that, laggy and slow to respond. Fix this."
+  },
+  {
+    "id": "r_26675f5a21",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "App crashes every single time I try to sync. Unusable."
+  },
+  {
+    "id": "r_d9caa6aa15",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "Frustrated. First, takes forever to load. On top of that, box arrived a day late and warm. Fix this."
+  },
+  {
+    "id": "r_5d925e5a73",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Love the design and it's fast, just wish it wasn't so expensive now."
+  },
+  {
+    "id": "r_9d732349e4",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Been using it for months. Honestly love it."
+  },
+  {
+    "id": "r_1b05c69baa",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Case doesn't charge."
+  },
+  {
+    "id": "r_f0c1acc1ae",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Rude agent on the phone."
+  },
+  {
+    "id": "r_08c4309efd",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Been usign it for months. Honestly love it."
+  },
+  {
+    "id": "r_62afe2076a",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret paying for this. First, price went up with no warning. On top of that, needs a web version. Fix this."
+  },
+  {
+    "id": "r_8e99352068",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disapointed. New layout is confusing."
+  },
+  {
+    "id": "r_24734e41d9",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "zh",
+    "text": "很好用，界面漂亮，但是太贵了。"
+  },
+  {
+    "id": "r_14bc063505",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Not happy. Ingredients were spoiled on arrival."
+  },
+  {
+    "id": "r_ef4ff90492",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Mixed feeligns. Customer support fixed it fast, but 2FA loop won't let me in."
+  },
+  {
+    "id": "r_cdd74a5d55",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Could be better. Works great for me, but billed after I cancelled."
+  },
+  {
+    "id": "r_bef118d621",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Not hapy. Billed after i cancelled."
+  },
+  {
+    "id": "r_928172d53c",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Decent but flawed. Exactly what i needed, but still no offline mode."
+  },
+  {
+    "id": "r_7c8ce1d7e1",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. First, 2FA loop won't let me in. On top of that, chatbot is useless, couldn't reach a human. Fix this."
+  },
+  {
+    "id": "r_56283ab38d",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Not happy. Locked out of my own account."
+  },
+  {
+    "id": "r_63d127e14d",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but crashes every time I open it."
+  },
+  {
+    "id": "r_aafac30e71",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret paying for this. Laggy and slow to respond."
+  },
+  {
+    "id": "r_18874dd1ad",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Could be better. Best in its category, but too many taps to do one thing."
+  },
+  {
+    "id": "r_ab0ecc8c83",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Took 5 days to hear back."
+  },
+  {
+    "id": "r_3378f6373d",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. Password reset email never arrives."
+  },
+  {
+    "id": "r_7720d1096f",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Great product overall. The design is gorgeous."
+  },
+  {
+    "id": "r_d5bd375ce2",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Frustrated. Locked out of my own account."
+  },
+  {
+    "id": "r_35c004382e",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Not hapy. App closes randomly and i lose my work."
+  },
+  {
+    "id": "r_f45a2f701e",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Dark mode is unreadable."
+  },
+  {
+    "id": "r_8ed48767c2",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Too many taps to do one thing."
+  },
+  {
+    "id": "r_f88e7d3606",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. First, password reset email never arrives. On top of that, too many taps to do one thign. Fix this."
+  },
+  {
+    "id": "r_db7182a906",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "en",
+    "text": "Solid so far. Best in its category."
+  },
+  {
+    "id": "r_12dfde002f",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Solid so far. Honestly love it."
+  },
+  {
+    "id": "r_cd05d99c89",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Needs a web version."
+  },
+  {
+    "id": "r_182796fb17",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disappointed. Hidden fees nobody told me about."
+  },
+  {
+    "id": "r_125c197df2",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Really happy with this. Huge time saver."
+  },
+  {
+    "id": "r_c6377e8163",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret payign for this. Refund still hasn't come through."
+  },
+  {
+    "id": "r_0aefdadeaa",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret paying for this. Takes forever to load."
+  },
+  {
+    "id": "r_b9ca88109f",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Mixed feelings. Huge time saver, but app closes randomly and I lose my work."
+  },
+  {
+    "id": "r_805de601a7",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Great product overall. Customer support fixed it fast."
+  },
+  {
+    "id": "r_80895bf2de",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "fr",
+    "text": "Impossible de me reconnecter après la mise à jour."
+  },
+  {
+    "id": "r_9d784abd35",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Mixed feelings. Exactly what i needed, but takes forever to load."
+  },
+  {
+    "id": "r_8d92f3c14c",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Really hapy with this. Best in its category."
+  },
+  {
+    "id": "r_582a747605",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Not happy. First, delivery left in teh rain. On top of that, too many taps to do one thing. Fix this."
+  },
+  {
+    "id": "r_a53d7e59e1",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Been using it for months. Best in its category."
+  },
+  {
+    "id": "r_57c0654ab7",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Great product overall. Honestly love it."
+  },
+  {
+    "id": "r_aaa75e18e0",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Not hapy. App closes randomly and i lose my work."
+  },
+  {
+    "id": "r_aee60b7aaa",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Been using it for months. Honestly love it."
+  },
+  {
+    "id": "r_c349fef93f",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "en",
+    "text": "Been using it for months. The design is gorgeous."
+  },
+  {
+    "id": "r_30f4500bcf",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret payign for this. Price went up with no warning."
+  },
+  {
+    "id": "r_08972ad5aa",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Password reset email never arrives."
+  },
+  {
+    "id": "r_7fbee01b64",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. No way to bulk edit."
+  },
+  {
+    "id": "r_3ddb5bc966",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Great product overall. Huge time saver."
+  },
+  {
+    "id": "r_bec80a9108",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Decent but flawed. Huge time saver, but ignredients were spoiled on arrival."
+  },
+  {
+    "id": "r_b237a2a905",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Not happy. First, way too expensive for what it does. On top of that, laggy and slow to respond. Fix this."
+  },
+  {
+    "id": "r_501eba2f4e",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "es",
+    "text": "Me cobraron dos veces este mes, quiero un reembolso."
+  },
+  {
+    "id": "r_db192b47fd",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. Huge time saver, but ignredients were spoiled on arrival."
+  },
+  {
+    "id": "r_2b60a41951",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "It's okay. Works great for me, but no way to bulk edit."
+  },
+  {
+    "id": "r_4b9a1999c9",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Food quality is excellent when it arrives; the problem is it's late half the time."
+  },
+  {
+    "id": "r_ebe548963f",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Decent but flawed. Best in its category, but can't find teh export button anymore."
+  },
+  {
+    "id": "r_715a71a7cd",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "App crashes every single time I try to sync. Unusable. "
+  },
+  {
+    "id": "r_1206806423",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Solid so far. Best in its category."
+  },
+  {
+    "id": "r_0f4f387420",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Really disapointed. First, chatbot is useless, couldn't reach a human. On top of that, app closes randomly and I lose my work. Fix this."
+  },
+  {
+    "id": "r_b99d2110ee",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. Case doesn't charge."
+  },
+  {
+    "id": "r_ce5547de1a",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Mixed feelings. Honestly love it, but billed after I cancelled."
+  },
+  {
+    "id": "r_9512c866c2",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Sure, love waiting 5 days for support to say 'have you tried reinstalling'."
+  },
+  {
+    "id": "r_272c17cf37",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really hapy with this. Customer support fixed it fast."
+  },
+  {
+    "id": "r_8719fb04c5",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Won't hold a charge anymore."
+  },
+  {
+    "id": "r_698488d91c",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Laggy and slow to respond."
+  },
+  {
+    "id": "r_2383c3db84",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Mixed feeligns. Exactly what i needed, but locked out of my own account."
+  },
+  {
+    "id": "r_4ec7370886",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. Works great for me, but can't find the export button anymore."
+  },
+  {
+    "id": "r_e7a4e8b815",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "asdkjfh asdf test test ignore"
+  },
+  {
+    "id": "r_d322e0c5d0",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "It's okay. Best in its category, but chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_5d602d8cd8",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Support was genuinely lovely and sorted my refund fast — but the app itself crashes daily, so I'm still leaving."
+  },
+  {
+    "id": "r_1fbd7ac0c7",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Really disappointed. Box arrived a day late and warm."
+  },
+  {
+    "id": "r_9cdbce00b5",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Really happy with this. Customer support fixed it fast."
+  },
+  {
+    "id": "r_5b5033dfb6",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. First, new layout is confusing. On top of that, still no offline mode. Fix this."
+  },
+  {
+    "id": "r_e34881e458",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Frustrated. Left earbud stopped working after a week."
+  },
+  {
+    "id": "r_3fa3b701ea",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "Been using it for months. Huge time saver."
+  },
+  {
+    "id": "r_3eb8af6cac",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Frustrated. Way too expensive for what it does."
+  },
+  {
+    "id": "r_3831263b56",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Regret payign for this. First, support never replied. On top of that, battery dies in an hour. Fix this."
+  },
+  {
+    "id": "r_e0b0658aba",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "Not happy. First, keeps freezign on the home screen. On top of that, new layout is confusing. Fix this."
+  },
+  {
+    "id": "r_104e812f3c",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "It's okay. Customer support fixed it fast, but chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_39130b5889",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but locked out of my own account."
+  },
+  {
+    "id": "r_c8f89c17d1",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Frustrated. The free tier is basically useless now."
+  },
+  {
+    "id": "r_1cdb6043c9",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. First, still no offline mode. On top of that, refund still hasn't come through. Fix this."
+  },
+  {
+    "id": "r_36b5eece7e",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "Not happy. Password reset email never arrives."
+  },
+  {
+    "id": "r_eb94a23055",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Charged me twice and support won't respond! Absolute joke!"
+  },
+  {
+    "id": "r_5d4b904b83",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. Honestly love it, but laggy and slow to respond."
+  },
+  {
+    "id": "r_24af3e35c3",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Not happy. Took 5 days to hear back."
+  },
+  {
+    "id": "r_f5033cc980",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Not hapy. Support never replied."
+  },
+  {
+    "id": "r_54723cf5be",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Solid so far. Honestly love it."
+  },
+  {
+    "id": "r_ae8a5a0899",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Decent but flawed. The design is gorgeous, but crashes every time I open it."
+  },
+  {
+    "id": "r_46833764c9",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "ok"
+  },
+  {
+    "id": "r_3bc13b5f66",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Refund still hasn't come through."
+  },
+  {
+    "id": "r_3541389f22",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "Decent but flawed. Huge time saver, but box arrived a day late and warm."
+  },
+  {
+    "id": "r_fbe0ebb681",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Could be better. Honestly love it, but hidden fees nobody told me about."
+  },
+  {
+    "id": "r_21d307f5c4",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Regret payign for this. Too many taps to do one thing."
+  },
+  {
+    "id": "r_b55e3c30d1",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. First, way too expensive for what it does. On top of that, dark mode is unreadable. Fix this."
+  },
+  {
+    "id": "r_ae432c7f0a",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disappointed. First, crashes every time I open it. On top of that, refund still hasn't come through. Fix this."
+  },
+  {
+    "id": "r_d30fee89e6",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Really disappointed. First, battery dies in an hour. On top of that, box arrived a day late and warm. Fix this."
+  },
+  {
+    "id": "r_fb784235b2",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Decent but flawed. Exactly what i needed, but rude agent on the phone."
+  },
+  {
+    "id": "r_8a97582d7c",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. First, price went up with no warning. On top of that, rude agent on the phone. Fix this."
+  },
+  {
+    "id": "r_d42b27c6a1",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Really disapointed. Hidden fees nobody told me about."
+  },
+  {
+    "id": "r_96c98ceb80",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "It's okay. The design is gorgeous, but takes forever to load."
+  },
+  {
+    "id": "r_a9a8832da1",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Been usign it for months. Best in its category."
+  },
+  {
+    "id": "r_45cba10d32",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Could be better. Exactly what i needed, but too many taps to do one thing."
+  },
+  {
+    "id": "r_cae13a5d28",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Great product overall. The design is gorgeous."
+  },
+  {
+    "id": "r_c630b095e7",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Really disappointed. Can't log back in after teh update."
+  },
+  {
+    "id": "r_89a753d7bf",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. Not worth the subscription."
+  },
+  {
+    "id": "r_2fb8933b5a",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Delivery left in the rain."
+  },
+  {
+    "id": "r_9989eef4e9",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Really disapointed. Won't hold a charge anymore."
+  },
+  {
+    "id": "r_cb0fed05ba",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Billed after i cancelled."
+  },
+  {
+    "id": "r_5ecb444cdb",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but refund still hasn't come through."
+  },
+  {
+    "id": "r_6861cf24a5",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Great product overall. The design is gorgeous."
+  },
+  {
+    "id": "r_fce2f25103",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. No way to bulk edit."
+  },
+  {
+    "id": "r_2009e3bb71",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "Been using it for months. Huge time saver."
+  },
+  {
+    "id": "r_85d00f927a",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Great product overall. Customer support fixed it fast."
+  },
+  {
+    "id": "r_434b2a1030",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. First, locked out of my own account. On top of that, delivery left in the rain. Fix this."
+  },
+  {
+    "id": "r_1afa6aa76b",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Great product overall. Works great for me."
+  },
+  {
+    "id": "r_22c685a634",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. The design is gorgeous, but rude agent on the phone."
+  },
+  {
+    "id": "r_d95002fac3",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Refund still hasn't come through."
+  },
+  {
+    "id": "r_4685b7a3e1",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "First!!!!"
+  },
+  {
+    "id": "r_45dcf7072b",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disapointed. Billed after i cancelled."
+  },
+  {
+    "id": "r_14c6f3a3d8",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Regret payign for this. No way to bulk edit."
+  },
+  {
+    "id": "r_f917c19145",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. First, wish it had recurring tasks. On top of that, not worth the subscription. Fix this."
+  },
+  {
+    "id": "r_5a916b8380",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "de",
+    "text": "Der Kundendienst hat nie geantwortet. Enttäuschend."
+  },
+  {
+    "id": "r_33ab54da69",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Not happy. First, battery dies in an hour. On top of that, app closes randomly and I lose my work. Fix this."
+  },
+  {
+    "id": "r_80e6986691",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Could be better. Exactly what i needed, but no way to bulk edit."
+  },
+  {
+    "id": "r_2e00ed8a00",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "Regret paying for this. Still no offline mode."
+  },
+  {
+    "id": "r_1bc2354d9d",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. Takes forever to load."
+  },
+  {
+    "id": "r_6c62be93a6",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. Exactly what i needed, but still no offline mode."
+  },
+  {
+    "id": "r_61b8c95abc",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. Best in its category, but sync takes minutes."
+  },
+  {
+    "id": "r_255a351a4f",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Could be better. Exactly what i needed, but dark mode is unreadable."
+  },
+  {
+    "id": "r_0857a9603d",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Charged me twice and support won't respond. Absolute joke."
+  },
+  {
+    "id": "r_ba0a47e6a9",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Wow, charged twice AND slow. Money well spent, 10/10 would rage again."
+  },
+  {
+    "id": "r_444b560816",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Can't find the export button anymore."
+  },
+  {
+    "id": "r_5f4e9e552b",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Not hapy. First, left earbud stopped working after a week. On top of that, locked out of my own account. Fix this."
+  },
+  {
+    "id": "r_783ccc545f",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disappointed. Too many taps to do one thing."
+  },
+  {
+    "id": "r_a80e74f332",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "Frustrated. Needs a web version."
+  },
+  {
+    "id": "r_b1967ab1e2",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret payign for this. Case doesn't charge."
+  },
+  {
+    "id": "r_e1134e0173",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Solid so far. Huge time saver."
+  },
+  {
+    "id": "r_1fd3454074",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Solid so far. Best in its category."
+  },
+  {
+    "id": "r_1f4faa8f0a",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Could be better. Customer support fixed it fast, but new laut is confusing."
+  },
+  {
+    "id": "r_62b00a3f0a",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 2,
+    "language": "en",
+    "text": "Could be better. Customer support fixed it fast, but takes forever to load."
+  },
+  {
+    "id": "r_d940559c2a",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Hidden fees nobody told me about."
+  },
+  {
+    "id": "r_5de012d642",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really hapy with this. The design is gorgeous."
+  },
+  {
+    "id": "r_73c199ce68",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. First, not worth the subscription. On top of that, wish it had recurring tasks. Fix this."
+  },
+  {
+    "id": "r_d089ea2e21",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. First, locked out of my own account. On top of that, price went up with no warnign. Fix this."
+  },
+  {
+    "id": "r_06f94fc663",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "It's okay. Customer support fixed it fast, but ingredients were spoiled on arrival."
+  },
+  {
+    "id": "r_ca15a7f564",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Frustrated. Ingredients were spoiled on arrival."
+  },
+  {
+    "id": "r_83f71a6b70",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret paying for this. Price went up with no warning."
+  },
+  {
+    "id": "r_34fc0590c0",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Regret paying for this. Got charged twice this month."
+  },
+  {
+    "id": "r_9d928f6ed4",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": ""
+  },
+  {
+    "id": "r_01c39b1cce",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. Hidden fees nobody told me about."
+  },
+  {
+    "id": "r_ed03a9e2dd",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Frustrated. Needs a web version."
+  },
+  {
+    "id": "r_8e19482fa4",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. Delivery left in the rain."
+  },
+  {
+    "id": "r_f478dd4c34",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Really disappointed. Keeps freezing on teh home screen."
+  },
+  {
+    "id": "r_fdab9d361f",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Really disappointed. 2fa loop won't let me in."
+  },
+  {
+    "id": "r_0102e52e9c",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "It's okay. Best in its category, but spinning wheel for ages."
+  },
+  {
+    "id": "r_3150d43c72",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. First, billed after I cancelled. On top of that, left earbud stopped working after a week. Fix this."
+  },
+  {
+    "id": "r_8170112ec9",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Great product overall. Customer support fixed it fast."
+  },
+  {
+    "id": "r_6def802523",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Been usign it for months. Works great for me."
+  },
+  {
+    "id": "r_db2e1965c9",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Frustrated. Left earbud stopped working after a week."
+  },
+  {
+    "id": "r_73232f765e",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "Regret paying for this. First, takes forever to load. On top of that, can't log back in after teh update. Fix this."
+  },
+  {
+    "id": "r_9a9fd32ea8",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disappointed. Ingredients were spoiled on arrival."
+  },
+  {
+    "id": "r_5a2c573a3b",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Could be better. Honestly love it, but left earbud stopped workign after a week."
+  },
+  {
+    "id": "r_49f1761890",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. First, new layout is confusing. On top of that, won't hold a charge anymore. Fix this."
+  },
+  {
+    "id": "r_591aca435a",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Frustrated. Box arrived a day late and warm."
+  },
+  {
+    "id": "r_5c6c63e146",
+    "product": "LedgerLite (budgeting app)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "Solid so far. The design is gorgeous."
+  },
+  {
+    "id": "r_35807c0a6b",
+    "product": "PulseFit (fitness app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Great job hiding the export button, real genius move."
+  },
+  {
+    "id": "r_48d409d6cc",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Solid so far. Works great for me."
+  },
+  {
+    "id": "r_82b4e404cc",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "meh"
+  },
+  {
+    "id": "r_9f0e4d316d",
+    "product": "FreshCrate (meal kit)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Frustrated. Laggy and slow to respond."
+  },
+  {
+    "id": "r_60923316c6",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "MAKE $5000/WEEK FROM HOME!!! Click here: bit.ly/not-a-scam"
+  },
+  {
+    "id": "r_0ae54b33dd",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Can't find the export button anymore."
+  },
+  {
+    "id": "r_d64c357742",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. First, way too expensive for what it does. On top of that, can't log back in after the update. Fix this."
+  },
+  {
+    "id": "r_5a46fb0454",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "Really happy with this. Customer support fixed it fast."
+  },
+  {
+    "id": "r_b4e403341c",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Could be better. Huge time saver, but took 5 days to hear back."
+  },
+  {
+    "id": "r_3a889eb342",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Password reset email never arrives."
+  },
+  {
+    "id": "r_ad615c9b2e",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 4,
+    "language": "en",
+    "text": "Really disappointed. Chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_0331341973",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. Wish it had recurring tasks."
+  },
+  {
+    "id": "r_9c188f7084",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "Not happy. New layout is confusing."
+  },
+  {
+    "id": "r_9ddc2bf520",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Really happy with this. Best in its category."
+  },
+  {
+    "id": "r_cab8fc978c",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Mixed feelings. Works great for me, but won't hold a charge anymore."
+  },
+  {
+    "id": "r_fd47ccf880",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. Needs a web version."
+  },
+  {
+    "id": "r_9f69bbf7cb",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret payign for this. Won't hold a charge anymore."
+  },
+  {
+    "id": "r_ca5ca52c95",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 2,
+    "language": "en",
+    "text": "Frustrated. Too many taps to do one thing."
+  },
+  {
+    "id": "r_bb08a1acab",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "buy cheap followers dm me @growthhackz"
+  },
+  {
+    "id": "r_b514e5e172",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Rude agent on teh phone."
+  },
+  {
+    "id": "r_ce41bc53af",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Really happy with this. Customer support fixed it fast."
+  },
+  {
+    "id": "r_e02b7b1060",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Solid so far. Customer support fixed it fast."
+  },
+  {
+    "id": "r_dff1eb999a",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. Sync takes minutes."
+  },
+  {
+    "id": "r_9f2389acc1",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Great product overall. Exactly what i needed."
+  },
+  {
+    "id": "r_99f969748f",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Great product overall. Best in its category."
+  },
+  {
+    "id": "r_c9ad8eaf88",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 2,
+    "language": "en",
+    "text": "Frustrated. Still no offline mode."
+  },
+  {
+    "id": "r_56c063b692",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really happy with this. Honestly love it."
+  },
+  {
+    "id": "r_f91b2b5435",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "Mixed feelings. Exactly what i needed, but sync takes minutes."
+  },
+  {
+    "id": "r_9a77dc1f68",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "👍"
+  },
+  {
+    "id": "r_2c040b5fca",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Regret payign for this. Won't hold a charge anymore."
+  },
+  {
+    "id": "r_fcac9da5df",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. Huge time saver, but app closes randomly and I lose my work."
+  },
+  {
+    "id": "r_ba45f84f34",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": 4,
+    "language": "en",
+    "text": "Regret paying for this. First, the free tier is basically useless now. On top of that, spinning wheel for ages. Fix this."
+  },
+  {
+    "id": "r_c0fd7ebdcf",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Charged me twice and support won't respond. Absolute joke. "
+  },
+  {
+    "id": "r_ea2bcb0252",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Could be better. Customer support fixed it fast, but refund still hasn't come through."
+  },
+  {
+    "id": "r_ad61d2773e",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret paying for this. First, constant crashing since the update. On top of that, left earbud stopped working after a week. Fix this."
+  },
+  {
+    "id": "r_4a6d3a0ad7",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 5,
+    "language": "en",
+    "text": "Really disappointed. First, sync takes minutes. On top of that, not worth teh subscription. Fix this."
+  },
+  {
+    "id": "r_0c6a718de4",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 3,
+    "language": "en",
+    "text": "Could be better. Exactly what i needed, but got charged twice this month."
+  },
+  {
+    "id": "r_21219f0ae4",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disapointed. First, wish it had recurrign tasks. On top of that, crashes every time I open it. Fix this."
+  },
+  {
+    "id": "r_8122a62f76",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Really disappointed. Too many taps to do one thign."
+  },
+  {
+    "id": "r_fc20112816",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "   "
+  },
+  {
+    "id": "r_38879316f6",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but locked out of my own account."
+  },
+  {
+    "id": "r_401cbedf1c",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. First, the free tier is basically useless now. On top of that, can't find the export button anymore. Fix this."
+  },
+  {
+    "id": "r_6ddd69c54f",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Took 5 days to hear back."
+  },
+  {
+    "id": "r_c3e43c4653",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Great product overall. Best in its category."
+  },
+  {
+    "id": "r_12e3c73b6f",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 4,
+    "language": "en",
+    "text": "Regret paying for this. First, not worth the subscription. On top of that, needs a web version. Fix this."
+  },
+  {
+    "id": "r_4ee453edde",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. First, 2FA loop won't let me in. On top of that, keeps freezing on the home screen. Fix this."
+  },
+  {
+    "id": "r_48884afd55",
+    "product": "PulseFit (fitness app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Not hapy. First, support never replied. On top of that, the free tier is basically useless now. Fix this."
+  },
+  {
+    "id": "r_b4e00d4ddc",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. Not worth the subscription."
+  },
+  {
+    "id": "r_62b3d619b1",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Too many taps to do one thing."
+  },
+  {
+    "id": "r_3879b18df5",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. First, way too expensive for what it does. On top of that, box arrived a day late and warm. Fix this."
+  },
+  {
+    "id": "r_e7bfcfa2d5",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 2,
+    "language": "en",
+    "text": "Regret paying for this. Won't hold a charge anymore."
+  },
+  {
+    "id": "r_8da0b3401b",
+    "product": "PulseFit (fitness app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "..."
+  },
+  {
+    "id": "r_45bdb2edbc",
+    "product": "TaskFlow (PM app)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Great product overall. Exactly what i needed."
+  },
+  {
+    "id": "r_57611812af",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. Takes forever to load."
+  },
+  {
+    "id": "r_c13af8bfc4",
+    "product": "LedgerLite (budgeting app)",
+    "source": "support_chat",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Dark mode is unreadable."
+  },
+  {
+    "id": "r_ec5cda6393",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Regret paying for this. Ingredients were spoiled on arrival."
+  },
+  {
+    "id": "r_ebfecadb2d",
+    "product": "FreshCrate (meal kit)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "Not happy. Delivery left in the rain."
+  },
+  {
+    "id": "r_babdb3aea7",
+    "product": "TaskFlow (PM app)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "It's okay. Exactly what i needed, but too many taps to do one thing."
+  },
+  {
+    "id": "r_e5a8a56760",
+    "product": "TaskFlow (PM app)",
+    "source": "trustpilot",
+    "rating": 3,
+    "language": "en",
+    "text": "."
+  },
+  {
+    "id": "r_f4d813bbe2",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "Decent but flawed. The design is gorgeous, but chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_5d93b9e5d8",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 1,
+    "language": "en",
+    "text": "It's okay. Exactly what i needed, but laggy and slow to respond."
+  },
+  {
+    "id": "r_a661882b05",
+    "product": "AeroBuds (earbuds)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_e606921418",
+    "product": "TaskFlow (PM app)",
+    "source": "google_play",
+    "rating": 1,
+    "language": "en",
+    "text": "Really happy with this. Honestly love it."
+  },
+  {
+    "id": "r_d352ebda6b",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 4,
+    "language": "en",
+    "text": "Could be better. Customer support fixed it fast, but new layout is confusing."
+  },
+  {
+    "id": "r_6614734b3f",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Regret payign for this. Too many taps to do one thing."
+  },
+  {
+    "id": "r_468c228ae7",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "Could be better. Honestly love it, but laggy and slow to respond."
+  },
+  {
+    "id": "r_086ea16b49",
+    "product": "PulseFit (fitness app)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "en",
+    "text": "App crashes every single time I try to sync! Unusable!"
+  },
+  {
+    "id": "r_2dc2c0e066",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Mixed feelings. The design is gorgeous, but laggy and slow to respond."
+  },
+  {
+    "id": "r_3899900140",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. First, locked out of my own account. On top of that, wish it had recurring tasks. Fix this."
+  },
+  {
+    "id": "r_e0bfa52ea0",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 5,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but hidden fees nobody told me about."
+  },
+  {
+    "id": "r_0c3d1baa76",
+    "product": "AeroBuds (earbuds)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "n/a"
+  },
+  {
+    "id": "r_8be6e1a217",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Regret paying for this. First, took 5 days to hear back. On top of that, price went up with no warning. Fix this."
+  },
+  {
+    "id": "r_69c4e7f834",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 3,
+    "language": "en",
+    "text": "Frustrated. First, locked out of my own account. On top of that, constant crashing since the update. Fix this."
+  },
+  {
+    "id": "r_fde6364af2",
+    "product": "AeroBuds (earbuds)",
+    "source": "google_play",
+    "rating": null,
+    "language": "en",
+    "text": "Really disapointed. Needs a web version."
+  },
+  {
+    "id": "r_7bdb62ce19",
+    "product": "LedgerLite (budgeting app)",
+    "source": "app_store",
+    "rating": null,
+    "language": "en",
+    "text": "Frustrated. Chatbot is useless, couldn't reach a human."
+  },
+  {
+    "id": "r_278b85a4b1",
+    "product": "TaskFlow (PM app)",
+    "source": "app_store",
+    "rating": 3,
+    "language": "en",
+    "text": "Really disappointed. Spinnign wheel for ages."
+  },
+  {
+    "id": "r_6373986bbb",
+    "product": "FreshCrate (meal kit)",
+    "source": "google_play",
+    "rating": 2,
+    "language": "en",
+    "text": "Solid so far. Customer support fixed it fast."
+  },
+  {
+    "id": "r_bf4c435496",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 1,
+    "language": "es",
+    "text": "La aplicación se cierra sola cada vez que la abro. Muy frustrante."
+  },
+  {
+    "id": "r_d3e39c48c8",
+    "product": "LedgerLite (budgeting app)",
+    "source": "trustpilot",
+    "rating": null,
+    "language": "en",
+    "text": "Regret paying for this. First, support never replied. On top of that, price went up with no warning. Fix this."
+  },
+  {
+    "id": "r_c5eb186685",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": 1,
+    "language": "en",
+    "text": "Frustrated. Can't find the export button anymore."
+  },
+  {
+    "id": "r_ba71d5d38f",
+    "product": "FreshCrate (meal kit)",
+    "source": "support_chat",
+    "rating": 1,
+    "language": "en",
+    "text": "Not hapy. Can't log back in after teh update."
+  },
+  {
+    "id": "r_3406399f60",
+    "product": "LedgerLite (budgeting app)",
+    "source": "post_purchase_email",
+    "rating": 5,
+    "language": "en",
+    "text": "Could be better. Honestly love it, but constant crashing since the update."
+  },
+  {
+    "id": "r_aa3a14c2a6",
+    "product": "FreshCrate (meal kit)",
+    "source": "trustpilot",
+    "rating": 5,
+    "language": "en",
+    "text": "🔥🔥 FREE CRYPTO AIRDROP claim now www.totally-legit.xyz 🔥🔥"
+  },
+  {
+    "id": "r_ff464b68ac",
+    "product": "PulseFit (fitness app)",
+    "source": "google_play",
+    "rating": 5,
+    "language": "en",
+    "text": "Not happy. App closes randomly and i lose my work."
+  },
+  {
+    "id": "r_ec1e12787f",
+    "product": "AeroBuds (earbuds)",
+    "source": "support_chat",
+    "rating": 4,
+    "language": "en",
+    "text": "Decent but flawed. Works great for me, but rude agent on the phone."
+  },
+  {
+    "id": "r_2f44aba3c7",
+    "product": "AeroBuds (earbuds)",
+    "source": "post_purchase_email",
+    "rating": null,
+    "language": "en",
+    "text": "Not happy. Box arrived a day late and warm."
+  }
+]

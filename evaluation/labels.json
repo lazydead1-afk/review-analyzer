@@ -1,0 +1,158 @@
+{
+  "labels": [
+    {
+      "id": "r_7720d1096f",
+      "expectedSentiment": "positive",
+      "expectedIssues": [],
+      "note": "Unqualified praise; visual design is not an issue."
+    },
+    {
+      "id": "r_46833764c9",
+      "expectedSentiment": "neutral",
+      "expectedIssues": [],
+      "note": "The terse text has no clear positive or negative signal."
+    },
+    {
+      "id": "r_25b640ada9",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "app_crash", "severity": "high" }
+      ],
+      "note": "Sarcastic praise describes a presentation-blocking crash."
+    },
+    {
+      "id": "r_7c8ce1d7e1",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "account_access", "severity": "high" },
+        { "name": "customer_support", "severity": "medium" }
+      ]
+    },
+    {
+      "id": "r_251e81292e",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "delivery", "severity": "high" },
+        { "name": "food_quality", "severity": "high" }
+      ],
+      "note": "Portuguese review says the order arrived late and spoiled."
+    },
+    {
+      "id": "r_18240baa21",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "app_crash", "severity": "medium" }
+      ],
+      "note": "German review reports repeated crashes after an update without explicitly saying the app is unusable."
+    },
+    {
+      "id": "r_24734e41d9",
+      "expectedSentiment": "mixed",
+      "expectedIssues": [
+        { "name": "pricing", "severity": "medium" }
+      ],
+      "note": "Chinese review praises usability and appearance but says it is too expensive."
+    },
+    {
+      "id": "r_80895bf2de",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "account_access", "severity": "high" }
+      ],
+      "note": "French review says signing back in after the update is impossible."
+    },
+    {
+      "id": "r_501eba2f4e",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "billing", "severity": "high" }
+      ],
+      "note": "Spanish review reports a duplicate charge and requests a refund; refund is not labeled because no failed refund process is described."
+    },
+    {
+      "id": "r_bf4c435496",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "app_crash", "severity": "high" }
+      ],
+      "note": "Spanish review says the application closes every time it is opened."
+    },
+    {
+      "id": "r_eb94a23055",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "billing", "severity": "high" },
+        { "name": "customer_support", "severity": "medium" }
+      ]
+    },
+    {
+      "id": "r_ae432c7f0a",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "app_crash", "severity": "high" },
+        { "name": "refund", "severity": "high" }
+      ]
+    },
+    {
+      "id": "r_5d602d8cd8",
+      "expectedSentiment": "mixed",
+      "expectedIssues": [
+        { "name": "app_crash", "severity": "medium" }
+      ],
+      "note": "Support and refund are described as successful, so only the daily crash is an issue."
+    },
+    {
+      "id": "r_582a747605",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "delivery", "severity": "high" },
+        { "name": "usability", "severity": "low" }
+      ],
+      "note": "Contains the typo 'teh'; rain exposure is treated as potentially making the delivery unusable."
+    },
+    {
+      "id": "r_3e74a62234",
+      "expectedSentiment": "mixed",
+      "expectedIssues": [
+        { "name": "hardware_failure", "severity": "high" }
+      ]
+    },
+    {
+      "id": "r_2383c3db84",
+      "expectedSentiment": "mixed",
+      "expectedIssues": [
+        { "name": "account_access", "severity": "high" }
+      ],
+      "note": "Messy spelling retains clear praise and an account lockout."
+    },
+    {
+      "id": "r_e0b0658aba",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "performance", "severity": "medium" },
+        { "name": "usability", "severity": "low" }
+      ],
+      "note": "The freezing typo maps to performance; the confusing layout is a lower-severity usability issue."
+    },
+    {
+      "id": "r_928172d53c",
+      "expectedSentiment": "mixed",
+      "expectedIssues": [
+        { "name": "missing_feature", "severity": "low" }
+      ]
+    },
+    {
+      "id": "r_24af3e35c3",
+      "expectedSentiment": "negative",
+      "expectedIssues": [
+        { "name": "customer_support", "severity": "medium" }
+      ]
+    },
+    {
+      "id": "r_60923316c6",
+      "expectedSentiment": "neutral",
+      "expectedIssues": [],
+      "note": "Promotional spam is assigned neutral sentiment by convention and is expected to be absent from predictions because deterministic cleaning rejects it."
+    }
+  ]
+}
